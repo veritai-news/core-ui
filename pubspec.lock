@@ -45,8 +45,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: be0a79ae71d8a03026a1e7ba157a69c84ae93012
-      resolved-ref: be0a79ae71d8a03026a1e7ba157a69c84ae93012
+      ref: "302aec5e1b87bcfe0762ad557741c6038831d4dc"
+      resolved-ref: "302aec5e1b87bcfe0762ad557741c6038831d4dc"
       url: "https://github.com/verity-hq/core.git"
     source: git
     version: "2.1.0"
